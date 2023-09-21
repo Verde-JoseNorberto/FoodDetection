@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Pizza</folder>
+	<filename>Pizza-Train (7).jpeg</filename>
+	<path>C:\Users\Tokiru\Documents\College Files\4TH YEAR 1ST TERM\THESIS2\FoodDetection\Tensorflow\workspace\images\train\Pizza\Pizza-Train (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>53</ymin>
+			<xmax>120</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>135</ymin>
+			<xmax>199</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>73</ymin>
+			<xmax>198</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,20 @@
+item { 
+	name:'Burger'
+	id:1
+}
+item { 
+	name:'CrispyChicken'
+	id:2
+}
+item { 
+	name:'Fries'
+	id:3
+}
+item { 
+	name:'Pizza'
+	id:4
+}
+item { 
+	name:'Sandwich'
+	id:5
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fries</folder>
+	<filename>Fries-Train (133).jpeg</filename>
+	<path>C:\Users\Synaptics\Documents\Synaptics\FoodDetection\Tensorflow\workspace\images\train\Fries\Fries-Train (133).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>13</ymin>
+			<xmax>173</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>

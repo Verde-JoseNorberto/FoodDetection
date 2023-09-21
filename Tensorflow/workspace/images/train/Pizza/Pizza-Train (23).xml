@@ -1,0 +1,14 @@
+<annotation>
+	<folder>Pizza</folder>
+	<filename>Pizza-Train (23).jpeg</filename>
+	<path>C:\Users\Tokiru\Documents\College Files\4TH YEAR 1ST TERM\THESIS2\FoodDetection\Tensorflow\workspace\images\train\Pizza\Pizza-Train (23).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

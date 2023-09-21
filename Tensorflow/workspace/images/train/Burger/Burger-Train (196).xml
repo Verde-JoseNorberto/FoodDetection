@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Burger</folder>
+	<filename>Burger-Train (196).jpeg</filename>
+	<path>C:\Users\Tokiru\Documents\College Files\4TH YEAR 1ST TERM\THESIS2\FoodDetection\Tensorflow\workspace\images\train\Burger\Burger-Train (196).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>285</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Burger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>7</ymin>
+			<xmax>222</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

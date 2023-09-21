@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sandwich</folder>
+	<filename>Sandwich-Train (162).jpeg</filename>
+	<path>C:\xampp\htdocs\FoodDetection\Tensorflow\workspace\images\train\Sandwich\Sandwich-Train (162).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>11</ymin>
+			<xmax>256</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

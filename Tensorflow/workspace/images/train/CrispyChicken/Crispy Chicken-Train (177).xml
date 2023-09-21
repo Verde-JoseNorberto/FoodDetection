@@ -1,0 +1,38 @@
+<annotation>
+	<folder>CrispyChicken</folder>
+	<filename>Crispy Chicken-Train (177).jpeg</filename>
+	<path>C:\xampp\htdocs\FoodDetection\Tensorflow\workspace\images\train\CrispyChicken\Crispy Chicken-Train (177).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>186</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CrispyChicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>203</ymin>
+			<xmax>111</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CrispyChicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>192</ymin>
+			<xmax>136</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

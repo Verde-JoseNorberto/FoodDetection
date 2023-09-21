@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pizza</folder>
+	<filename>Pizza-Train (225).jpeg</filename>
+	<path>C:\xampp\htdocs\FoodDetection\Tensorflow\workspace\images\train\Pizza\Pizza-Train (225).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>35</ymin>
+			<xmax>96</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>
